@@ -4,12 +4,11 @@ main:
   - title: "Projects"
     url: /projects/
     
-  - title: "CV"
-    url: /cv/
-    
   - title: "Academics"
     url: /academics/
   
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+    
+    
     
