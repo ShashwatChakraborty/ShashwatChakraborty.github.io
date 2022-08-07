@@ -1,14 +1,19 @@
 # main links links
 main:
 
+  - title: "Research Interests"
+    url: /research/
+
   - title: "Projects"
     url: /projects/
+   
+  - title: "Teaching"
+    url: /teaching/  
     
   - title: "Academics"
     url: /academics/
   
-  - title: "Teaching"
-    url: /teaching/   
+  
     
     
     
