@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Devashish Shah"
+title                    : "Shashwat Chakraborty"
 title_separator          : "-"
-name                     : &name "Devashish Shah"
+name                     : &name "Shashwat Chakraborty"
 description              : &description "I am a Third Year Undergraduate at the Indian Institute of Technology, Bombay"
 url                      : https://devashish-shah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
