@@ -121,7 +121,7 @@ author:
   wikipedia        :
 
 #theme
-theme: slate@v0.2.0
+theme: jekyll-theme-slate
 
 # Reading Files
 include:
