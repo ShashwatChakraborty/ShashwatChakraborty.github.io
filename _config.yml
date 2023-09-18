@@ -121,7 +121,7 @@ author:
   wikipedia        :
 
 #theme
-theme: minima
+theme: slate@v0.2.0
 
 # Reading Files
 include:
