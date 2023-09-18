@@ -121,7 +121,7 @@ author:
   wikipedia        :
 
 #theme
-theme: jekyll-theme-slate
+theme: jekyll-theme-architect
 
 # Reading Files
 include:
