@@ -121,7 +121,7 @@ author:
   wikipedia        :
 
 #theme
-theme: pages-themes/architect@v0.2.0
+theme: architect
 
 # Reading Files
 include:
