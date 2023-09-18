@@ -121,7 +121,7 @@ author:
   wikipedia        :
 
 #theme
-theme: architect
+theme: minima
 
 # Reading Files
 include:
