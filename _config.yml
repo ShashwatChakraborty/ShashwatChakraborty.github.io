@@ -121,7 +121,7 @@ author:
   wikipedia        :
 
 #theme
-theme: jekyll-theme-architect
+theme: minimal-mistakes-jekyll
 
 # Reading Files
 include:
