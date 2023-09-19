@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shashwat Chakraborty"
 title_separator          : "-"
 name                     : &name "Shashwat Chakraborty"
-description              : &description "I am a Third Year Undergraduate at the Indian Institute of Technology, Bombay"
+description              : &description "I am a Fourth Year Undergraduate at the Indian Institute of Technology, Bombay"
 url                      : "https://ShashwatChakraborty.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "/jekyll" # the subpath of your site, e.g. "/blog"
 repository               : "ShashwatChakraborty/ShashwatChakraborty.github.io"
@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Shashwat Chakraborty"
-  avatar           : "WebDP.png"
+  avatar           : "WebDP2.png"
   bio              : "Fourth Year Undergraduate at IIT Bombay"
   location         : "Mumbai, Maharashtra, India"
   employer         :
