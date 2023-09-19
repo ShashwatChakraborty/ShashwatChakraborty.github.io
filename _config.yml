@@ -121,7 +121,7 @@ author:
   wikipedia        :
 
 #theme
-#theme: minimal-mistakes-jekyll
+theme: jekyll-theme-cayman
 
 # Reading Files
 include:
