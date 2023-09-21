@@ -50,11 +50,11 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-//$gray                       : #7a8288;
-//$dark-gray                  : mix(#000, $gray, 40%);
-//$darker-gray                : mix(#000, $gray, 60%);
-//$light-gray                 : mix(#fff, $gray, 50%);
-//$lighter-gray               : mix(#fff, $gray, 90%);
+$gray                       : #7a8288;
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
 
 /* Colors */
 $body-color                 : #fff;
@@ -164,11 +164,3 @@ $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
-
-.page__footer {
-  color: #fff !important; // override
-}
-
-.page__footer-follow .social-icons .svg-inline--fa {
-  color: inherit;
-}
